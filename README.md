@@ -54,6 +54,3 @@
 > `Type help or press any key to continue...`
 > Built with 💡 and `console.log("vibes")`
 
----
-
-Let me know if you want badges, GitHub stats, or a retro "green terminal" theme next!
